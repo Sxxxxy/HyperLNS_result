@@ -1,0 +1,11 @@
+/media/sunyu/OS1/suanli/collectionunzip/fastxgemm-n2r7s4t1
+obj                 |bestobj             |time                |
+1527.000            |1527.000            |1.038               |KS1
+727.000             |727.000             |6.029               |KS2
+327.000             |327.000             |10.104              |KS2
+42.000              |42.000              |40.962              |lns2
+42.000              |42.000              |42.677              |random
+42.000              |42.000              |61.270              |random
+42.000              |42.000              |62.918              |random
+42.000              |42.000              |114.562             |random
+total time : 1000.003340959549

@@ -1,0 +1,7 @@
+/media/sunyu/OS1/suanli/collectionunzip/load_balancing_1035
+obj                 |bestobj             |time                |
+750.000             |750.000             |11.312              |KS1
+729.000             |729.000             |61.472              |KS2
+722.000             |722.000             |111.636             |KS2
+720.000             |720.000             |288.587             |crossover
+total time : 1000.1558701992035

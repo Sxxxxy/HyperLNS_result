@@ -1,0 +1,11 @@
+/media/sunyu/OS1/suanli/collectionunzip/item_placement_9991
+obj                 |bestobj             |time                |
+11.519              |11.519              |50.016              |INIT
+9.709               |9.709               |100.055             |KS2
+9.644               |9.644               |150.065             |KS2
+9.643               |9.643               |200.088             |KS2
+9.643               |9.643               |200.107             |crossover
+9.643               |9.643               |302.435             |random
+9.643               |9.643               |452.497             |random
+9.643               |9.643               |653.579             |random
+total time : 1000.0058693885803

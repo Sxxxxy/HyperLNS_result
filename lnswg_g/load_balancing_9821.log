@@ -1,0 +1,6 @@
+/media/sunyu/OS1/suanli/collectionunzip/load_balancing_9821
+obj                 |bestobj             |time                |
+725.000             |725.000             |6.594               |KS1
+723.000             |723.000             |36.994              |KS2
+722.000             |722.000             |167.580             |random
+total time : 1000.0083608627319

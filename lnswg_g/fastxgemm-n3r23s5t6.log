@@ -1,0 +1,8 @@
+/media/sunyu/OS1/suanli/collectionunzip/fastxgemm-n3r23s5t6
+obj                 |bestobj             |time                |
+36093.000           |36093.000           |51.104              |INIT
+27084.000           |27084.000           |101.114             |KS2
+17084.000           |17084.000           |251.141             |lns
+12093.000           |12093.000           |401.171             |random
+12087.000           |12087.000           |451.180             |lns
+total time : 1000.0077376365662

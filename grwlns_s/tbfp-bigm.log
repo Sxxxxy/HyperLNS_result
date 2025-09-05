@@ -1,0 +1,9 @@
+/media/sunyu/OS1/suanli/collectionunzip/tbfp-bigm
+obj                 |bestobj             |time                |
+28.125              |28.125              |50.054              |init
+27.253              |27.253              |61.512              |random
+27.253              |27.253              |156.757             |random
+27.226              |27.226              |736.492             |lns2
+26.271              |26.271              |758.174             |lns2
+26.007              |26.007              |799.174             |random
+total time : 1001.6234266757965
