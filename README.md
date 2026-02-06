@@ -1,5 +1,5 @@
 This repository provides the per-instance logs produced on the public test set by four algorithmic configurations evaluated in our paper:
-- LNS
+- KS-LBR
 - HyperLNS-lp
 - HyperLNS-GDPP
 - HyperLNS
@@ -12,8 +12,8 @@ Short directory map (solver + method) is as follows:
 | `grwlns_g`       | Gurobi  | HyperLNS-GDPP |
 | `grwlns_gwl`     | Gurobi  | HyperLNS-lp   |
 | `grwlns_ghybrid` | Gurobi  | HyperLNS      |
-| `lnswg_g`        | Gurobi  | LNS           |
+| `lnswg_g`        | Gurobi  | KS-LBR        |
 | `grwlns_s`       | SCIP    | HyperLNS-GDPP |
 | `grwlns_swl`     | SCIP    | HyperLNS-lp   |
 | `grwlns_shybrid` | SCIP    | HyperLNS      |
-| `lnswg_s`        | SCIP    | LNS           |
+| `lnswg_s`        | SCIP    | KS-LBR        |
